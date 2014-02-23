@@ -1,1 +1,1 @@
-a file in branch sp1
+a file in branch sp1 was originated in sp2
